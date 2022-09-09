@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scout-school-chatbot-ace9",
+  "private_key_id": "a68c1d38538f3cfb38f99932942d387bd6b91462",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD65A7u+Or6yF9R\nudDQOa8da//KBotv+Y9Mlj5/ZETT3S2TbkNFGCyofgDHS1RY1mI6440fWB0UbG8/\ngdNcyhcnsJg8InGQ/mqIn/fsvqEiItc+8q/R1HUGmNh6+YGolATdWZL9tefLfiiF\njpoHxN3X6M5UpqMMtkyXw2eFKsNW4ZLqSDFvVWbH3c6tH3nOhIWaTIOJVBt2Lj5a\nGDCGo0z2RMNvt7z7VKKCV98OCeCaa9BdS6k9iWyeffLhwhWzJ76+2qzKXGL2i0We\nlEKlnUsAUHPaqmrr08fzwx/IvPoWfY4BIC77YrzRu8O2I4tZic2BTDrOgPzyYDwL\n+oYvLOFxAgMBAAECggEABZhuv1RonDN6Eb7qyewRbF7vX1x2QWbv09nRdsKgGNgI\n104JHMpBW7gksQ0sakdMvUq8J9/tlRomgIR3F+2PZuSUvpmXjg/ohRfJPhvRyOq9\nQXOE6ZF7Eyy3PkXghweXFK813KfxDZwoj/L6WzRALNutt1xYjFToACX84e7OWLqH\nn/AN+hvKxmOeuUCP0uaO8p6yxUscCZ6AP4gRmbpm9HJ5SJKXjdaHZCZK2MP3NTYX\nU6GCZj2FY3mLkRybp2z7jupGyxvNRGtdJ+u5O58zXymxHtVIU0S1UBjRN3ytUZ5A\nqiLr5/cm1WewKLAiDQVGVCYMKdTNxQGr69yNf67bKQKBgQD+phWvuLQxw9YR7nnQ\nJ++AUeLSG/syfaBX+QJnmGVgnWP/LNLr2ZE2kkTS2Rde2lhXDlSclH916PI/ujfa\nQJdn4NFa7QjzhWZOVrcXKg5yELP01WdOIgdfvfFigiZwxwd/C21xBWTuD9xrutI2\n20RhAH1b3cJMVVu2Q6ThdeawOQKBgQD8ON5tzjo9ocTa3t441yP3sxiNogAHx1pd\nNg2CCA3E9yLjYroPCXJ2nMgQNARPlVTc6Bg2dHb+C1Bcfp+TWAFKVx06ajcmGp7V\nYjNyZpLmGJATppcLykCabJLqeeco/kSNN36sBzCGsjFjm1+QD27wNKP+HbKnGd1H\nwK0nc7NK+QKBgEwRXt8MBL/s6TCYFUlJ9LBXRbNP6nzNrC07VC2QB5CR04IxaJxN\ndKRhky+M6/9IqCTxQfM4JM8bE+pXfUG0E8ZTERbhQdBE5Ce4nZ7M0F3ggXE8okxj\nu+IswkOT71m3CpU326xsWRcII+cGeq8qVsXHOKtNljHpOak7kbBL4Op5AoGBALmi\ndXsl3NG9vXBFthLprWxCoaCkihcvj3+pJ9n7aX79Ue0/nacxkdBg5hKe5klYpGQO\nYru5jla+JwBcpcBBdnmrkjSLNlnSH/L3WtwpSJcXnvsHkoY37sJ5hMwUuqD+O6Ag\nJxggFoQcpKMmGPijk0gxxj1iyDmanLWRxx+RVXWpAoGBAL4sSWAuFftBtdjtjyff\nHM5j6aECCUxmkwz3Ew9po0mVcVszsK6nIS8YawOru3TcNHBa18Nsd0fgdfIKlV0B\n+2sycAqI3Fa4v074vY/ym1fHv+/2LLfMmu0WvdS8sDQaU7hoA00JQ42GF2I6Dpm6\nAcnJsJckEoZpTB7jlc5rw4E7\n-----END PRIVATE KEY-----\n",
+  "client_email": "scout-school-chatbot@scout-school-chatbot-ace9.iam.gserviceaccount.com",
+  "client_id": "103228733357593523927",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scout-school-chatbot%40scout-school-chatbot-ace9.iam.gserviceaccount.com"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381253730084",
+    "project_id": "sih-2022-7165c",
+    "storage_bucket": "sih-2022-7165c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381253730084:android:2d6752a2e369104a147db1",
+        "android_client_info": {
+          "package_name": "com.example.scout_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381253730084-6j72h1krd7r9cebnl47ojk9mip2jiju9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-zJtHGIsKxegW4wKFJEb6JBUr8DLuEfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381253730084-6j72h1krd7r9cebnl47ojk9mip2jiju9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
